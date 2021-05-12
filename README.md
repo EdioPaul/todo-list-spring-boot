@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-git clone https://github.com/EdioPaul/
+git clone https://github.com/EdioPaul/todo-list-spring-boot
 
 Execute com SpringToolSuite4
 Abra http://localhost:8080/todolist
