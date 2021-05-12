@@ -29,3 +29,9 @@ spring.datasource.url=jdbc:mysql://localhost:3306/todo?useSSL=false
 spring.datasource.username=(login do seu BD)
 spring.datasource.password=(senha do seu BD)
 
+
+### Para uso com Docker (utilizando os comandos dentro do Dockerfile).
+
+Cria a image: docker build -t todo .
+
+Cria o container: docker run -p 8080:8080 -d todo
