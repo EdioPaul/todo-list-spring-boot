@@ -32,6 +32,6 @@ spring.datasource.password=(senha do seu BD)
 
 ### Para uso com Docker (utilizando os comandos dentro do Dockerfile).
 
-Cria a image: docker build -t todoAPI .
+Cria a image: docker build -t todoapi .
 
-Cria o container: docker run -p 8080:8080 -d todoAPI
+Cria o container: docker run -p 8080:8080 -d todoapi
